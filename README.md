@@ -23,7 +23,8 @@ parch: The dataset defines family relations in this way... Parent = mother, fath
 1. EDA -EXPLORATORY DATA ANALYSIS
 
 2. Model Training
-   Models Implemente
+
+   Models Implemented
   * Linear Regression
   * LogisticRegression
   * K-nearest neighbors algorithm
